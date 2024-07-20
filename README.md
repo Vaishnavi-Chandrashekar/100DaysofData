@@ -6,3 +6,4 @@ Throughout this journey, I'll be:
 💡 Applying my skills to hands-on projects and challenges.
 🤝 Engaging with the vibrant data science community for support and inspiration.
 💪 Cultivating consistency and discipline to make progress every single day.
+
